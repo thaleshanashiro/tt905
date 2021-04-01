@@ -1,1 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> Atividade 2 TT905</title>
+  </head>
+  
+<body>
+  <h1> Cidades </h1>
 
+<details>
+<summary><b>São Carlos</b></summary>
+<caption><h3> <b>Link para foto:</b> </h3></caption 
+<p><h3><a href = "#sao_carlos"> São Carlos</a></h3>
+<table border="1">
+  <tr><th>Habitantes</td><td>254.484</td></tr>
+  <tr><th>Área Total</td><td>1.137 km²</td></tr>
+  <tr><th>Temperatura Média</td><td>21.0(°C)</td></tr>
+  <caption> <b>Dados Numéricos</b> </caption>
+   </table>
+<ul>
+  <caption> <b>Pontos turísticos</b> </caption>
+  <li> Zoologico </li>
+  <li> Museu da aviação </li>
+  <li> Catedral </li>
+  <li> Observatorio astronômico da USP </li>
+    </ul>
+</details>
+
+<details>
+<summary><b>Jundiaí</b></summary>
+<caption><h3> <b>Link para foto:</b> </h3></caption
+<p><h3><a href = "#jundiai"> Jundiaí</a></h3>
+<table border="1">
+     <tr><th>Habitantes</td><td>423.006</td></tr>
+  <tr><th>Área Total</td><td> 431,2 km²</td></tr>
+  <tr><th>Temperatura Média</td><td>19.5(°C)</td></tr>
+ <caption> <b>Dados Numéricos</b> </caption>
+  </table>
+<ul>
+  <caption> <b>Pontos turísticos</b> </caption>
+  <li> Jardim Botânico </li>
+  <li> Jundiaí Shopping </li>
+  <li> Parque Engordadouro </li>
+  <li> Adega Maziero </li>
+    </ul>
+  </details>
+
+<details>
+<summary><b>Limeira</b></summary>
+<caption><h3> <b>Link para foto:</b> </h3></caption
+<p><h3><a href = "#limeira"> Limeira</a></h3>
+<table border="1">
+  <tr><th>Habitantes</td><td>308.482</td></tr>
+  <tr><th>Área Total</td><td> 580.983 km²</td></tr>
+  <tr><th>Temperatura Média</td><td>21.7(°C)</td></tr>
+ <caption> <b>Dados Numéricos</b> </caption>
+   </table>
+<ul>
+  <caption> <b>Pontos turísticos</b> </caption>
+  <li> Unicamp-limeira </li>
+  <li> Patio Shopping </li>
+  <li> Teatro Vitória </li>
+  <li> Shopping Nações </li>
+    </ul>
+</details>
+
+<details>
+<summary><b>Piraricaba</b></summary>
+<caption><h3> <b>Link para foto:</b> </h3></caption
+<p><h3><a href = "#piracicaba"> Piracicaba</a></h3>
+<table border="1">
+   <tr><th>Habitantes</td><td>407.252</td></tr>
+   <tr><th>Área Total</td><td> 1.378 km²</td></tr
+   <tr><th>Temperatura Média</td><td>21.7(°C)</td></tr>
+<caption> <b>Dados Numéricos</b> </caption>
+   </table>
+<ul>
+  <caption> <b>Pontos turísticos</b> </caption>
+  <li> Parque Rua do Porto </li>
+  <li> Museu da Água </li>
+  <li> Alto do Mirante </li>
+  <li> Aquário Municipal de Piracicaba </li>
+    </ul>
+</details>
+
+<details>
+<summary><b>Campinas</b></summary>
+<caption><h3> <b>Link para foto:</b> </h3></caption
+<p><h3><a href = "#campinas"> Campinas</a></h3>
+<table border="1">
+   <tr><th>Habitantes</td><td>1.204.073</td></tr>
+   <tr><th>Área total</td><td>3.645 km²</td></tr>
+   <tr><th>Temperatura Média</td><td>23(°C)</td></tr>
+<caption> <b>Dados Numéricos</b> </caption>
+  </table>
+<ul>
+  <caption> <b>Pontos turísticos</b> </caption>
+  <li> Parque do Taquaral</li>
+  <li> Parque D. Pedro Shopping </li>
+  <li> Pedreira do Chapadão </li>
+  <li> Bosque dos Jequitibás </li>
+    </ul>
+</details>
+
+<h1> Vídeo </h2>
+<p><video src="prog-web-05-04.mp4" width = "50%" altoplay controls></video>
+
+<p>
+<p>
+
+<h2 id="sao_carlos">São Carlos</h2>
+<a href = "https://pt.wikipedia.org/wiki/S%C3%A3o_Carlos_(S%C3%A3o_Paulo)"> <img src="https://s2.glbimg.com/Mqwvldscd_dduyARe-XIyHiMkDw=/0x0:620x465/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2015/09/09/prefeitura_sao_carlos_final_1.jpg"width = "75%" height = "75%"/></a>
+
+<h2 id="jundiai">Jundiaí</h2>
+<a href = "https://pt.wikipedia.org/wiki/Jundia%C3%AD"><img src="https://s2.glbimg.com/FTvOFli0H3UozI8-jwUYxkqvlDs=/0x0:1280x891/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/4/7/N3dAiXSU2dBs3KiAGscA/jundiai-sp.jpg" width = "75%" height = "75%"/></a>
+
+<h2 id="limeira">Limeira</h2>
+<a href = "https://pt.wikipedia.org/wiki/Limeira"><img src="https://catagua.com.br/wp-content/uploads/2020/06/6-vantagens-de-morar-em-limeira.jpg" width = "75%" height = "75%"/></a>
+
+<h2 id="piracicaba">Piracicaba</h2>
+<a href = "https://pt.wikipedia.org/wiki/Piracicaba"><img src="https://catagua.com.br/wp-content/uploads/2020/07/vantagens-de-morar-em-piracicaba.jpg" width = "75%" height = "75%"/></a>
+
+<h2 id="campinas">Campinas</h2>
+<a href = "https://pt.wikipedia.org/wiki/Campinas"><img src="https://www.livehere.com.br/blog/wp-content/uploads/2019/05/morar-em-campinas.jpg" width = "75%" height = "75%"/></a>
+
+ 
+
+  </body>
+
+</html>
