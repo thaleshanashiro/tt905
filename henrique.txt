@@ -1,0 +1,43 @@
+<body>
+  <header>
+    <h1> Henrique Vieira Ribeiro </h1>
+      <nav>
+    <a href ="ativ4-thales.htm">Thales</a>
+    <a href ="ativ3.htm">Última atividade</a>
+    <a href ="https://www.ft.unicamp.br/pt-br/graduacao/cursos/et">Telecom</a>
+      </nav>
+    </header>
+    <section>
+      <h2> Séries favoritas </h2>
+        <ul>
+       <li> Prison Break</li>
+       <li> Dark</li>
+       <li> Limitless</li>
+       <li> Supernatural</li>
+        </ul>
+        </section>
+        
+        <section>
+        <h2> Mais sobre mim </h2>
+        <details><summary> Comidas favoritas </summary>
+        <p> hamburger, lasanha, feijoada </p> </details>
+
+        <details><summary> Time que torço </summary>
+        <p> Corinthians </p></details>
+        </section>
+        
+        <section class="full">
+        
+        texto
+        
+        </section>
+
+<img src="https://www.ft.unicamp.br/sites/default/files/logotipo/logotipo_cor.jpg"></img>
+        
+        <footer> 
+        
+        
+ 
+
+</body>
+</html>
