@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> Página Thales - TT905</title>
+  <link rel="stylesheet" href="26-04.css"/>
+  </head>
+  
+<body>
+  <header>
+    <h1> Thales de Araujo Hanashiro </h1>
+      <nav>
+    <a href ="henrique">Henrique</a>
+    <a href ="ativ3.htm">Última atividade</a>
+    <a href ="https://www.ft.unicamp.br/pt-br/graduacao/cursos/et">Telecom</a>
+      </nav>
+    </header>
+    <section>
+      <h2> Séries favoritas </h2>
+        <ul>
+       <li> Breaking Bad</li>
+       <li> The Office</li>
+       <li> Game of Thrones</li>
+       <li> Dark</li>
+        </ul>
+        </section>
+        
+        <section>
+        <h2> Mais sobre mim </h2>
+        <details><summary> Comidas favoritas </summary>
+        <p> Parmeggiana, hamburger, brócolis </p> </details>
+
+        <details><summary> Time que torço </summary>
+        <p> Santos </p></details>
+        </section>
+        
+        <section class="full">
+        
+        <p> nascido em americana, morador de jundiai, estudante de limeira
+        
+        </section>
+        
+        <footer> 
+        
+        
+ 
+
+</body>
+</html>
