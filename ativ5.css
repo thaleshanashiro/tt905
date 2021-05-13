@@ -1,0 +1,12 @@
+.frame {
+  text-align: center;
+  background-color: gray;
+  height: 400px;
+  width: 600px;
+  background-size: cover;
+}
+
+img {
+  width: 45px;
+  height: 45px;
+}
