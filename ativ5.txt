@@ -7,13 +7,72 @@
     <script src="ativ5.js"></script>
 </head>
 <body>
+  
+  <header>
+    <h1> Thales de Araujo Hanashiro </h1>
+      <nav>
+    <a href ="henrique.html">Henrique</a>
+    <a href ="ativ3.htm">Última atividade</a>
+    <a href ="https://www.ft.unicamp.br/pt-br/graduacao/cursos/et">Telecom</a>
+      </nav>
+    </header>
+
+
 <h2> Fotos </h2>
 
 <div class="frame" id="frame2"></div>
     <hr/>
     <a href="javascript:movePrevious()">Previous</a>
-    <a href="javascript:moveNext()">Next</a>
+    <a href="javascript:moveNext()">Next</a> 
 
+
+
+    <section>
+      <h2> Séries favoritas </h2>
+        <ul>
+       <li> Breaking Bad</li>
+       <li> The Office</li>
+       <li> Game of Thrones</li>
+       <li> Dark</li>
+        </ul>
+        </section>
+    
+        <section>
+        <h2> Mais sobre mim </h2>
+        <details><summary> Comidas favoritas </summary>
+        <p> Parmeggiana
+           <img src="https://restaurantefarol.com.br/wp-content/uploads/2015/06/FAROL-file-mignon-a-parmegiana-1024x682.jpg"></img>
+            Hamburger
+            <img src="https://i.pinimg.com/564x/87/82/31/878231c2bb782feb5cb5592e674d39b0.jpg"></img>
+            Brócolis
+            <img src="https://conteudo.imguol.com.br/c/entretenimento/53/2020/05/04/brocolis-1588626077191_v2_450x337.jpg"></img>
+             </p> </details>
+            
+        <details><summary> Time que torço </summary>
+        <p> Santos </p>
+        <img src="https://logodownload.org/wp-content/uploads/2017/02/santos-logo-escudo-1.png"></img>
+	<p> paulista de jundiai </p>
+        <img src="https://upload.wikimedia.org/wikipedia/pt/0/06/PaulistaFC.png"></img>
+        </details>
+        </section>
+        
+        <section class="full">
+        
+        <h2> Texto sobre mim </h2>
+        Nascido em americana, morador de jundiai e estudante de limeira
+	santista desde sempre
+	estudutante de engenharia de telecomunicações pela unicamp desde 2018
+	ex-soldado do 12° grupo de artilharia de campanha
+	senhor dos aneis melhor filme ever.
+        
+        </section>
+<p>
+
+        <footer> 
+<img src="https://www.ft.unicamp.br/sites/default/files/logotipo/logotipo_cor.jpg"></img>
+        </footer>
+        
+        
 
 </body>
 </html>
