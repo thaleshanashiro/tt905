@@ -10,3 +10,111 @@ img {
   width: 45px;
   height: 45px;
 }
+
+corpo {
+	fundo :  # efefef ;
+	tamanho da fonte :  100 % ;
+	margem :  5 % ;
+}
+
+header {
+	plano de fundo :  # 777777 ;
+	padding-bottom :  10 px ;
+	alinhamento de texto : centro;
+}
+
+seção 	{
+	display : bloco embutido;
+	largura :  40 % ;
+	borda : sólido 2 px  # b3b3b3 ;
+	altura :  200 px ;
+	flutuar : esquerda;
+	preenchimento :  5 px ;
+	margem :  5 px ;
+	fundo : branco;
+}
+
+. full {
+	largura :  90 % ;
+	preenchimento :  6 px ;
+	altura :  200 px ;
+}
+
+img {
+    max-width:400px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+}
+
+
+rodapé {
+	limpar : esquerda;
+}
+
+a {
+ display: inline-block;
+ font-weight: bold;
+ color: white;
+ background-color: black;
+ width: 200px;
+ text-align: center;
+ padding: 5px; }
+
+a:visited {
+ background-color:black;
+ color: white; }
+
+a:hover {
+ background-color: blue;
+ color: black; 
+}
+
+a:focus {
+ background-color: #ADD8E6;
+ color: black; 
+}
+
+a:active {
+ border: 3px solid green;
+ padding: 1px; 
+ background-color: black;
+ color: white;}
+
+ 
+ summary:hover {
+ background-color: grey;
+ color: black; }
+
+ summary:focus {
+ background-color: #ADD8E6;
+ color: black; 
+}
+
+ summary{
+ margin: 10px
+}
+
+ li{
+ margin: 10px;
+}
+ 
+h1 {
+transition-property: color, width, background, border-radius;
+transition-duration: 1s;
+transition-delay: 1s;
+transition-timing-function:linear;}
+
+h1:hover{
+ color:white;
+ background-color: black;
+ border-radius: 200px;
+}
+
+img{
+transition-property: transform;
+transition-duration: 0.5s;
+}
+
+img:hover {
+transform: scale(0.5) rotate(360deg); }
